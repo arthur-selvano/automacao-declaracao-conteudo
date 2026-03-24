@@ -6,7 +6,7 @@ No dia a dia de Field Service, o preenchimento manual de declarações de conte�
 
 ### 💡 A Solução
 
-Desenvolvi um script em Python que extrai dados brutos de chamados técnicos que preenchemos e depois preenche automaticamente um template .docx, convertendo-o em PDF pronto para impressão via LibreOffice, reduzindo um trabalho de cerca de 8 minutos para cerca de 1 minuto.
+Desenvolvi um script em Python que extrai dados brutos de chamados técnicos que preenchemos e depois preenche automaticamente um template .docx, convertendo-o em PDF pronto para impressão via LibreOffice, reduzindo um trabalho de cerca de 5 minutos para menos de 1 minuto.
 
 ### 🛠️ Tecnologias Utilizadas
 
